@@ -1206,3 +1206,1085 @@
 # text = ఎకరి
 # gloss = individual
 1	ఎకరి	_	ADV	_	_	_	_	_	Gloss=individual
+
+# text = ఊమ్
+# gloss = to pull
+1	ఊమ్	_	VERB	_	_	_	_	_	Gloss=to_pull
+
+# text = ఊయిల
+# gloss = nausea
+1	ఊయిల	_	NOUN	_	_	_	_	_	Gloss=nausea
+
+# text = ఊయ్సర్
+# gloss = alertness
+1	ఊయ్సర్	_	ADJ	_	_	_	_	_	Gloss=alertness
+
+# text = ఊస
+# gloss = flood
+1	ఊస	_	NOUN	_	_	_	_	_	Gloss=flood
+
+# text = ఊస్₁
+# gloss = smear
+1	ఊస్₁	_	VERB	_	_	_	_	_	Gloss=smear
+
+# text = ఊస్₂
+# gloss = elated
+1	ఊస్₂	_	ADJ	_	_	_	_	_	Gloss=elated
+
+# text = ఊస్₃
+# gloss = to boil over
+1	ఊస్₃	_	VERB	_	_	_	_	_	Gloss=to_boil_over
+
+# text = ఊసి (పిట్టె)
+# gloss = bird
+1	ఊసి	_	NOUN	_	_	_	_	_	_
+2	(పిట్టె)	_	NOUN	_	_	_	_	_	Gloss=bird
+
+# text = ఎకరి
+# gloss = individual
+1	ఎకరి	_	ADV	_	_	_	_	_	Gloss=individual
+
+# text = హురె పీట్
+# gloss = eighty-nine
+1	హురె	_	NUM	_	_	_	_	_	_
+2	పీట్	_	NUM	_	_	_	_	_	Gloss=eighty-nine
+
+# text = హురె మూండ్
+# gloss = eighty-three
+1	హురె	_	NUM	_	_	_	_	_	_
+2	మూండ్	_	NUM	_	_	_	_	_	Gloss=eighty-three
+
+# text = హురె యేడుంగ్
+# gloss = eighty-seven
+1	హురె	_	NUM	_	_	_	_	_	_
+2	యేడుంగ్	_	NUM	_	_	_	_	_	Gloss=eighty-seven
+
+# text = హురె రండ్
+# gloss = eighty-two
+1	హురె	_	NUM	_	_	_	_	_	_
+2	రండ్	_	NUM	_	_	_	_	_	Gloss=eighty-two
+
+# text = హురె సారుంగ్
+# gloss = eighty-six
+1	హురె	_	NUM	_	_	_	_	_	_
+2	సారుంగ్	_	NUM	_	_	_	_	_	Gloss=eighty-six
+
+# text = హురె సియుంగ్
+# gloss = eighty-five
+1	హురె	_	NUM	_	_	_	_	_	_
+2	సియుంగ్	_	NUM	_	_	_	_	_	Gloss=eighty-five
+
+# text = హూడంగ్
+# gloss = parched grain
+1	హూడంగ్	_	NOUN	_	_	_	_	_	Gloss=parched_grain
+
+# text = హూడె (పిట్టె)
+# gloss = bird
+1	హూడె	_	NOUN	_	_	_	_	_	_
+2	(పిట్టె)	_	NOUN	_	_	_	_	_	Gloss=bird
+
+# text = హెక్డల్
+# gloss = bad manners
+1	హెక్డల్	_	NOUN	_	_	_	_	_	Gloss=bad_manners
+
+# text = హెంగ్డల్ బుద్ది
+# gloss = bad attitude
+1	హెంగ్డల్	_	NOUN	_	_	_	_	_	_
+2	బుద్ది	_	NOUN	_	_	_	_	_	Gloss=bad_attitude
+
+# text = హెర్మి
+# gloss = buffalo
+1	హెర్మి	_	NOUN	_	_	_	_	_	Gloss=buffalo
+
+# text = హురిలి
+# gloss = fruit trees
+1	హురిలి	_	NOUN	_	_	_	_	_	Gloss=fruit_trees
+
+# text = హురుమ్
+# gloss = iguana
+1	హురుమ్	_	NOUN	_	_	_	_	_	Gloss=iguana
+
+# text = హురె
+# gloss = eighty
+1	హురె	_	NUM	_	_	_	_	_	Gloss=eighty
+
+# text = హురె అట్వ్
+# gloss = eighty-eight
+1	హురె	_	NUM	_	_	_	_	_	_
+2	అట్వ్	_	NUM	_	_	_	_	_	Gloss=eighty-eight
+
+# text = హురె ఉంది
+# gloss = eighty-one
+1	హురె	_	NUM	_	_	_	_	_	_
+2	ఉంది	_	NUM	_	_	_	_	_	Gloss=eighty-one
+
+# text = హురె నాలుంగ్
+# gloss = eighty-four
+1	హురె	_	NUM	_	_	_	_	_	_
+2	నాలుంగ్	_	NUM	_	_	_	_	_	Gloss=eighty-four
+
+# text = హిర్డులి (మర్ర)
+# gloss = kind of a tree
+1	హిర్డులి	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=kind_of_a_tree
+
+# text = హిర్వ్ (మర్ర)
+# gloss = kind of a tree
+1	హిర్వ్	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=kind_of_a_tree
+
+# text = హిర్వల్
+# gloss = green
+1	హిర్వల్	_	ADV	_	_	_	_	_	Gloss=green
+
+# text = హిర్వల్ జాడి
+# gloss = person who grows grass
+1	హిర్వల్	_	NOUN	_	_	_	_	_	_
+2	జాడి	_	NOUN	_	_	_	_	_	Gloss=person_who_grows_grass
+
+# text = హీర₂
+# gloss = diamond
+1	హీర₂	_	NOUN	_	_	_	_	_	Gloss=diamond
+
+# text = హుకుమత్
+# gloss = authority
+1	హుకుమత్	_	NOUN	_	_	_	_	_	Gloss=authority
+
+# text = హుకుమ్
+# gloss = command
+1	హుకుమ్	_	NOUN	_	_	_	_	_	Gloss=command
+
+# text = హుకుమ్ దార్
+# gloss = officer
+1	హుకుమ్	_	NOUN	_	_	_	_	_	_
+2	దార్	_	NOUN	_	_	_	_	_	Gloss=officer
+
+# text = హుక్క
+# gloss = shell
+1	హుక్క	_	NOUN	_	_	_	_	_	Gloss=shell
+
+# text = హుక్క (కోసి)
+# gloss = boggy habitat of a snake
+1	హుక్క	_	NOUN	_	_	_	_	_	_
+2	(కోసి)	_	NOUN	_	_	_	_	_	Gloss=boggy_habitat_of_a_snake
+
+# text = హుండి
+# gloss = collection box
+1	హుండి	_	NOUN	_	_	_	_	_	Gloss=collection_box
+
+# text = హాన్
+# gloss = like that
+1	హాన్	_	ADV	_	_	_	_	_	Gloss=like_that
+
+# text = హాబర్
+# gloss = sky
+1	హాబర్	_	NOUN	_	_	_	_	_	Gloss=sky
+
+# text = హొర
+# gloss = long basket
+1	హొర	_	NOUN	_	_	_	_	_	Gloss=long_basket
+
+# text = హొరి కీమ్
+# gloss = beat
+1	హొరి	_	VERB	_	_	_	_	_	_
+2	కీమ్	_	VERB	_	_	_	_	_	Gloss=beat
+
+# text = హోర్
+# gloss = garland
+1	హోర్	_	NOUN	_	_	_	_	_	Gloss=garland
+
+# text = హోలత్
+# gloss = condition
+1	హోలత్	_	NOUN	_	_	_	_	_	Gloss=condition
+
+# text = హోలి కి
+# gloss = to shake
+1	హోలి	_	VERB	_	_	_	_	_	_
+2	కి	_	VERB	_	_	_	_	_	Gloss=to_shake
+
+# text = హోల్
+# gloss = matter
+1	హోల్	_	NOUN	_	_	_	_	_	Gloss=matter
+
+# text = హిక్కె
+# gloss = here
+1	హిక్కె	_	PRON	_	_	_	_	_	Gloss=here
+
+# text = హిక్తి
+# gloss = craft
+1	హిక్తి	_	NOUN	_	_	_	_	_	Gloss=craft
+
+# text = హిక్మత్
+# gloss = contrivance
+1	హిక్మత్	_	NOUN	_	_	_	_	_	Gloss=contrivance
+
+# text = హబ్బిడుర్
+# gloss = others
+1	హబ్బిడుర్	_	ADJ	_	_	_	_	_	Gloss=others
+
+# text = హయ్య్ల్
+# gloss = buffalo (m.)
+1	హయ్య్ల్	_	NOUN	_	_	_	_	_	Gloss=buffalo_(m.)
+
+# text = హరి సాన్
+# gloss = to elope when pregnant
+1	హరి	_	VERB	_	_	_	_	_	_
+2	సాన్	_	VERB	_	_	_	_	_	Gloss=to_elope_when_pregnant
+
+# text = హరిబ్
+# gloss = poor
+1	హరిబ్	_	ADJ	_	_	_	_	_	Gloss=poor
+
+# text = హర్
+# gloss = every
+1	హర్	_	NOUN	_	_	_	_	_	Gloss=every
+
+# text = హర్ర
+# gloss = room
+1	హర్ర	_	NOUN	_	_	_	_	_	Gloss=room
+
+# text = హర్రె లెండ
+# gloss = animal dropping
+1	హర్రె	_	NOUN	_	_	_	_	_	_
+2	లెండ	_	NOUN	_	_	_	_	_	Gloss=animal_dropping
+
+# text = హల్కల్
+# gloss = light
+1	హల్కల్	_	ADJ	_	_	_	_	_	Gloss=light
+
+# text = హల్కా
+# gloss = light
+1	హల్కా	_	NOUN	_	_	_	_	_	Gloss=light
+
+# text = హల్కా యేత్వల్
+# gloss = take it easy
+1	హల్కా	_	VERB	_	_	_	_	_	_
+2	యేత్వల్	_	VERB	_	_	_	_	_	Gloss=take_it_easy
+
+# text = హంసవెలి
+# gloss = genealogy
+1	హంసవెలి	_	NOUN	_	_	_	_	_	Gloss=genealogy
+
+# text = హట్టె మా
+# gloss = to become tired
+1	హట్టె	_	VERB	_	_	_	_	_	_
+2	మా	_	VERB	_	_	_	_	_	Gloss=to_become_tired
+
+# text = హట్టెమాసి
+# gloss = got tired
+1	హట్టెమాసి	_	VERB	_	_	_	_	_	Gloss=got_tired
+
+# text = హండంగ్
+# gloss = testicles
+1	హండంగ్	_	NOUN	_	_	_	_	_	Gloss=testicles
+
+# text = హత్తి
+# gloss = elephant
+1	హత్తి	_	NOUN	_	_	_	_	_	Gloss=elephant
+
+# text = హందకాకున్
+# gloss = on the other side
+1	హందకాకున్	_	ADV	_	_	_	_	_	Gloss=on_the_other_side
+
+# text = హజర్
+# gloss = thousand
+1	హజర్	_	NUM	_	_	_	_	_	Gloss=thousand
+
+# text = హజర్ సాల్క్
+# gloss = thousand years
+1	హజర్	_	NOUN	_	_	_	_	_	_
+2	సాల్క్	_	NOUN	_	_	_	_	_	Gloss=thousand_years
+
+# text = హజిరి ఆతోర్
+# gloss = I attended
+1	హజిరి	_	VERB	_	_	_	_	_	_
+2	ఆతోర్	_	VERB	_	_	_	_	_	Gloss=I_attended
+
+# text = హజిర్ ఆయ్య్ల్
+# gloss = be present
+1	హజిర్	_	VERB	_	_	_	_	_	_
+2	ఆయ్య్ల్	_	VERB	_	_	_	_	_	Gloss=be_present
+
+# text = హజ్రి ఆయ్యల్
+# gloss = participating
+1	హజ్రి	_	VERB	_	_	_	_	_	_
+2	ఆయ్యల్	_	VERB	_	_	_	_	_	Gloss=participating
+
+# text = హట్
+# gloss = perseverance
+1	హట్	_	NOUN	_	_	_	_	_	Gloss=perseverance
+
+# text = సోరె
+# gloss = sixty
+1	సోరె	_	NUM	_	_	_	_	_	Gloss=sixty
+
+# text = సోరె అట్వ్
+# gloss = sixty-eight
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	అట్వ్	_	NUM	_	_	_	_	_	Gloss=sixty-eight
+
+# text = సోరె ఉంది
+# gloss = sixty-one
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	ఉంది	_	NUM	_	_	_	_	_	Gloss=sixty-one
+
+# text = సోరె నాలుంగ్
+# gloss = sixty-four
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	నాలుంగ్	_	NUM	_	_	_	_	_	Gloss=sixty-four
+
+# text = సోరె పీట్
+# gloss = sixty-nine
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	పీట్	_	NUM	_	_	_	_	_	Gloss=sixty-nine
+
+# text = సోరె మూండ్
+# gloss = sixty-three
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	మూండ్	_	NUM	_	_	_	_	_	Gloss=sixty-three
+
+# text = సోరె యేడుంగ్
+# gloss = sixty-seven
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	యేడుంగ్	_	NUM	_	_	_	_	_	Gloss=sixty-seven
+
+# text = సోరె రండ్
+# gloss = sixty-two
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	రండ్	_	NUM	_	_	_	_	_	Gloss=sixty-two
+
+# text = సోరె సారుంగ్
+# gloss = sixty-six
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	సారుంగ్	_	NUM	_	_	_	_	_	Gloss=sixty-six
+
+# text = సోరె సియుంగ్
+# gloss = sixty-five
+1	సోరె	_	NUM	_	_	_	_	_	_
+2	సియుంగ్	_	NUM	_	_	_	_	_	Gloss=sixty-five
+
+# text = సోర్యలిర్
+# gloss = relatives
+1	సోర్యలిర్	_	NOUN	_	_	_	_	_	Gloss=relatives
+
+# text = సోర్పి కీమ్
+# gloss = start a fight
+1	సోర్పి	_	VERB	_	_	_	_	_	_
+2	కీమ్	_	VERB	_	_	_	_	_	Gloss=start_a_fight
+
+# text = సోప్రెమం
+# gloss = dedicate
+1	సోప్రెమం	_	VERB	_	_	_	_	_	Gloss=dedicate
+
+# text = సోబతొర్₁
+# gloss = beauty
+1	సోబతొర్₁	_	NOUN	_	_	_	_	_	Gloss=beauty
+
+# text = సోబ్డె రోగ్
+# gloss = communicable disease
+1	సోబ్డె	_	NOUN	_	_	_	_	_	_
+2	రోగ్	_	NOUN	_	_	_	_	_	Gloss=communicable_disease
+
+# text = సోయబిన్
+# gloss = soya seeds
+1	సోయబిన్	_	NOUN	_	_	_	_	_	Gloss=soya_seeds
+
+# text = సోయ్ల్
+# gloss = laziness
+1	సోయ్ల్	_	NOUN	_	_	_	_	_	Gloss=laziness
+
+# text = సోర
+# gloss = large earthen vessel
+1	సోర	_	NOUN	_	_	_	_	_	Gloss=large_earthen_vessel
+
+# text = సోజ్
+# gloss = to become angry
+1	సోజ్	_	NOUN	_	_	_	_	_	Gloss=to_become_angry
+
+# text = సోంచి కియ్య్క్
+# gloss = foolish
+1	సోంచి	_	ADJ	_	_	_	_	_	_
+2	కియ్య్క్	_	ADJ	_	_	_	_	_	Gloss=foolish
+
+# text = సోంచితల్
+# gloss = panther
+1	సోంచితల్	_	NOUN	_	_	_	_	_	Gloss=panther
+
+# text = సోంచ్
+# gloss = thinking
+1	సోంచ్	_	NOUN	_	_	_	_	_	Gloss=thinking
+
+# text = సోంచ్ కీ
+# gloss = to think
+1	సోంచ్	_	NOUN	_	_	_	_	_	_
+2	కీ	_	NOUN	_	_	_	_	_	Gloss=to_think
+
+# text = సోడ
+# gloss = soda
+1	సోడ	_	NUM	_	_	_	_	_	Gloss=soda
+
+# text = సోడ్
+# gloss = to be sharp
+1	సోడ్	_	VERB	_	_	_	_	_	Gloss=to_be_sharp
+
+# text = సోడ్ బాబత్
+# gloss = divorce
+1	సోడ్	_	NOUN	_	_	_	_	_	_
+2	బాబత్	_	NOUN	_	_	_	_	_	Gloss=divorce
+
+# text = సోడ్త
+# gloss = finished cutting
+1	సోడ్త	_	VERB	_	_	_	_	_	Gloss=finished_cutting
+
+# text = సోదిర జాగ
+1	సోదిర	_	NOUN	_	_	_	_	_	_
+2	జాగ	_	NOUN	_	_	_	_	_	_
+
+# text = సోదె
+# gloss = witch-doctor
+1	సోదె	_	NOUN	_	_	_	_	_	Gloss=witch-doctor
+
+# text = సావిలె
+# gloss = sour
+1	సావిలె	_	NOUN	_	_	_	_	_	Gloss=sour
+
+# text = సావ్వార్
+# gloss = salt
+1	సావ్వార్	_	NOUN	_	_	_	_	_	Gloss=salt
+
+# text = సో
+# gloss = go
+1	సో	_	VERB	_	_	_	_	_	Gloss=go
+
+# text = సోక
+# gloss = locate
+1	సోక	_	VERB	_	_	_	_	_	Gloss=locate
+
+# text = సోకె మాయ్వల్
+1	సోకె	_	VERB	_	_	_	_	_	_
+2	మాయ్వల్	_	VERB	_	_	_	_	_	_
+
+# text = సోకెర
+# gloss = aside
+1	సోకెర	_	ADV	_	_	_	_	_	Gloss=aside
+
+# text = సోక్₁
+# gloss = fashion
+1	సోక్₁	_	NOUN	_	_	_	_	_	Gloss=fashion
+
+# text = సోక్₂
+# gloss = want
+1	సోక్₂	_	NOUN	_	_	_	_	_	Gloss=want
+
+# text = సోక్న
+# gloss = goody
+1	సోక్న	_	ADV	_	_	_	_	_	Gloss=goody
+
+# text = సోక్నె
+# gloss = beautifully
+1	సోక్నె	_	ADV	_	_	_	_	_	Gloss=beautifully
+
+# text = సైప్రస్
+# gloss = cypress(tree)
+1	సైప్రస్	_	NOUN	_	_	_	_	_	Gloss=cypress(tree)
+
+# text = సొజెటల్
+# gloss = angry man
+1	సొజెటల్	_	PRON	_	_	_	_	_	Gloss=angry_man
+
+# text = సొంజెర్ మత్తెర్
+# gloss = intact.state.alt
+1	సొంజెర్	_	NOUN	_	_	_	_	_	_
+2	మత్తెర్	_	NOUN	_	_	_	_	_	Gloss=intact.state.alt
+
+# text = సొంట్
+# gloss = please go
+1	సొంట్	_	VERB	_	_	_	_	_	Gloss=please_go
+
+# text = సొడియ
+# gloss = go
+1	సొడియ	_	VERB	_	_	_	_	_	Gloss=go
+
+# text = సొడియంత
+# gloss = it goes
+1	సొడియంత	_	VERB	_	_	_	_	_	Gloss=it_goes
+
+# text = సొడు కీమ్
+# gloss = send
+1	సొడు	_	VERB	_	_	_	_	_	_
+2	కీమ్	_	VERB	_	_	_	_	_	Gloss=send
+
+# text = సొడుస్
+# gloss = to set (of sun)
+1	సొడుస్	_	VERB	_	_	_	_	_	Gloss=to_set_(of_sun)
+
+# text = సొడ్య
+# gloss = leave
+1	సొడ్య	_	VERB	_	_	_	_	_	Gloss=leave
+
+# text = సొత్త
+# gloss = thick rod
+1	సొత్త	_	NOUN	_	_	_	_	_	Gloss=thick_rod
+
+# text = సొడ్డెల్
+# gloss = pour
+1	సొడ్డెల్	_	VERB	_	_	_	_	_	Gloss=pour
+
+# text = సేవ
+# gloss = service
+1	సేవ	_	NOUN	_	_	_	_	_	Gloss=service
+
+# text = సేవ్కల్
+1	సేవ్కల్	_	ADJ	_	_	_	_	_	_
+
+# text = సేవ్యంగ్
+# gloss = noodle-like preparation
+1	సేవ్యంగ్	_	NOUN	_	_	_	_	_	Gloss=noodle-like_preparation
+
+# text = సేస
+# gloss = grain offering
+1	సేస	_	NOUN	_	_	_	_	_	Gloss=grain_offering
+
+# text = సేర్₂
+# gloss = plough
+1	సేర్₂	_	NOUN	_	_	_	_	_	Gloss=plough
+
+# text = సేర్నడడ్
+# gloss = wife's younger sister
+1	సేర్నడడ్	_	NOUN	_	_	_	_	_	Gloss=wife's_younger_sister
+
+# text = సేర్వడ్
+# gloss = younger brother's wife
+1	సేర్వడ్	_	NOUN	_	_	_	_	_	Gloss=younger_brother's_wife
+
+# text = సేల
+# gloss = handtowel
+1	సేల	_	NOUN	_	_	_	_	_	Gloss=handtowel
+
+# text = సేలడ్
+# gloss = young girls
+1	సేలడ్	_	NOUN	_	_	_	_	_	Gloss=young_girls
+
+# text = సేలడ్ తక్క
+# gloss = sisters
+1	సేలడ్	_	NOUN	_	_	_	_	_	_
+2	తక్క	_	NOUN	_	_	_	_	_	Gloss=sisters
+
+# text = సెరులి (మర్ర)
+# gloss = kind of banyan tree
+1	సెరులి	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=kind_of_banyan_tree
+
+# text = సెర్క (మర్ర)
+# gloss = tree
+1	సెర్క	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=tree
+
+# text = సెర్నడడ్
+# gloss = husband's sister, sister-in-law
+1	సెర్నడడ్	_	NOUN	_	_	_	_	_	Gloss=husband's_sister,_sister-in-law
+
+# text = సెర్వం
+# gloss = sandal
+1	సెర్వం	_	NOUN	_	_	_	_	_	Gloss=sandal
+
+# text = సెల్లె
+# gloss = not
+1	సెల్లె	_	VERB	_	_	_	_	_	Gloss=not
+
+# text = సెవ్వెర జాడి
+# gloss = plant
+1	సెవ్వెర	_	NOUN	_	_	_	_	_	_
+2	జాడి	_	NOUN	_	_	_	_	_	Gloss=plant
+
+# text = సెవ్వెర్
+# gloss = gum
+1	సెవ్వెర్	_	NOUN	_	_	_	_	_	Gloss=gum
+
+# text = సేకె మామ్
+# gloss = unsevering fireplace
+1	సేకె	_	NOUN	_	_	_	_	_	_
+2	మామ్	_	NOUN	_	_	_	_	_	Gloss=unsevering_fireplace
+
+# text = సేకెమాంత
+# gloss = will it happen with
+1	సేకెమాంత	_	VERB	_	_	_	_	_	Gloss=will_it_happen_with
+
+# text = సేక్ కీమ్
+# gloss = air
+1	సేక్	_	VERB	_	_	_	_	_	_
+2	కీమ్	_	VERB	_	_	_	_	_	Gloss=air
+
+# text = సేజ
+# gloss = pod (of bean)
+1	సేజ	_	NOUN	_	_	_	_	_	Gloss=pod_(of_bean)
+
+# text = సుర్ వెర్తల్
+# gloss = mediator of marriage
+1	సుర్	_	NOUN	_	_	_	_	_	_
+2	వెర్తల్	_	NOUN	_	_	_	_	_	Gloss=mediator_of_marriage
+
+# text = సుర్పాపె
+# gloss = butterfly
+1	సుర్పాపె	_	NOUN	_	_	_	_	_	Gloss=butterfly
+
+# text = సుర్మ
+# gloss = eye liner
+1	సుర్మ	_	NOUN	_	_	_	_	_	Gloss=eye_liner
+
+# text = సుర్వె
+# gloss = bee
+1	సుర్వె	_	NOUN	_	_	_	_	_	Gloss=bee
+
+# text = సులుడి
+# gloss = bamboo flute
+1	సులుడి	_	NOUN	_	_	_	_	_	Gloss=bamboo_flute
+
+# text = సుస్త్
+# gloss = moderately
+1	సుస్త్	_	ADV	_	_	_	_	_	Gloss=moderately
+
+# text = సూట్
+# gloss = target
+1	సూట్	_	NOUN	_	_	_	_	_	Gloss=target
+
+# text = సూడ్
+# gloss = to see
+1	సూడ్	_	VERB	_	_	_	_	_	Gloss=to_see
+
+# text = సూడ్త
+# gloss = seen
+1	సూడ్త	_	PRON	_	_	_	_	_	Gloss=seen
+
+# text = సురుస్
+# gloss = to discard
+1	సురుస్	_	VERB	_	_	_	_	_	Gloss=to_discard
+
+# text = సురె
+# gloss = seventy
+1	సురె	_	NUM	_	_	_	_	_	Gloss=seventy
+
+# text = సురె అట్వ్
+# gloss = seventy-eight
+1	సురె	_	NUM	_	_	_	_	_	_
+2	అట్వ్	_	NUM	_	_	_	_	_	Gloss=seventy-eight
+
+# text = సురె ఉంది
+# gloss = seventy-one
+1	సురె	_	NUM	_	_	_	_	_	_
+2	ఉంది	_	NUM	_	_	_	_	_	Gloss=seventy-one
+
+# text = సురె నాలుంగ్
+# gloss = seventy-four
+1	సురె	_	NUM	_	_	_	_	_	_
+2	నాలుంగ్	_	NUM	_	_	_	_	_	Gloss=seventy-four
+
+# text = సురె పీట్
+# gloss = seventy-nine
+1	సురె	_	NUM	_	_	_	_	_	_
+2	పీట్	_	NUM	_	_	_	_	_	Gloss=seventy-nine
+
+# text = సురె మూండ్
+# gloss = seventy-three
+1	సురె	_	NUM	_	_	_	_	_	_
+2	మూండ్	_	NUM	_	_	_	_	_	Gloss=seventy-three
+
+# text = సురె యేడుంగ్
+# gloss = seventy-seven
+1	సురె	_	NUM	_	_	_	_	_	_
+2	యేడుంగ్	_	NUM	_	_	_	_	_	Gloss=seventy-seven
+
+# text = సురె రండ్
+# gloss = seventy-two
+1	సురె	_	NUM	_	_	_	_	_	_
+2	రండ్	_	NUM	_	_	_	_	_	Gloss=seventy-two
+
+# text = సురె సారుంగ్
+# gloss = seventy-six
+1	సురె	_	NUM	_	_	_	_	_	_
+2	సారుంగ్	_	NUM	_	_	_	_	_	Gloss=seventy-six
+
+# text = సురె సియుంగ్
+# gloss = seventy-five
+1	సురె	_	NUM	_	_	_	_	_	_
+2	సియుంగ్	_	NUM	_	_	_	_	_	Gloss=seventy-five
+
+# text = సుప్లి
+# gloss = small winnowing basket
+1	సుప్లి	_	NOUN	_	_	_	_	_	Gloss=small_winnowing_basket
+
+# text = సుప్లె
+# gloss = basket
+1	సుప్లె	_	NOUN	_	_	_	_	_	Gloss=basket
+
+# text = సుయ్
+# gloss = needle
+1	సుయ్	_	NOUN	_	_	_	_	_	Gloss=needle
+
+# text = సుయ్ పద్ది
+# gloss = porcupine
+1	సుయ్	_	NOUN	_	_	_	_	_	_
+2	పద్ది	_	NOUN	_	_	_	_	_	Gloss=porcupine
+
+# text = సుయ్క్ న మత్
+# gloss = acupuncture
+1	సుయ్క్	_	NOUN	_	_	_	_	_	_
+2	న	_	NOUN	_	_	_	_	_	_
+3	మత్	_	NOUN	_	_	_	_	_	Gloss=acupuncture
+
+# text = సుయ్యల్
+# gloss = sharp
+1	సుయ్యల్	_	NOUN	_	_	_	_	_	Gloss=sharp
+
+# text = సురు
+# gloss = rise
+1	సురు	_	NOUN	_	_	_	_	_	Gloss=rise
+
+# text = సురు కీ
+# gloss = to start
+1	సురు	_	VERB	_	_	_	_	_	_
+2	కీ	_	VERB	_	_	_	_	_	Gloss=to_start
+
+# text = సుట్టె-మా₂
+# gloss = to release
+1	సుట్టె-మా₂	_	NOUN	_	_	_	_	_	Gloss=to_release
+
+# text = సుట్టెమాతెర్
+# gloss = got separated (m.)
+1	సుట్టెమాతెర్	_	VERB	_	_	_	_	_	Gloss=got_separated_(m.)
+
+# text = సుతరి బడ్డె
+# gloss = pricking with goad
+1	సుతరి	_	NOUN	_	_	_	_	_	_
+2	బడ్డె	_	NOUN	_	_	_	_	_	Gloss=pricking_with_goad
+
+# text = సుత్తె
+# gloss = hammer
+1	సుత్తె	_	NOUN	_	_	_	_	_	Gloss=hammer
+
+# text = సుత్తి
+# gloss = rope
+1	సుత్తి	_	NOUN	_	_	_	_	_	Gloss=rope
+
+# text = సుదుడ్ కియ్వల్
+# gloss = purify
+1	సుదుడ్	_	VERB	_	_	_	_	_	_
+2	కియ్వల్	_	VERB	_	_	_	_	_	Gloss=purify
+
+# text = సుదుడ్త
+# gloss = chastity
+1	సుదుడ్త	_	NOUN	_	_	_	_	_	Gloss=chastity
+
+# text = సుద్రే మా
+# gloss = to be well
+1	సుద్రే	_	VERB	_	_	_	_	_	_
+2	మా	_	VERB	_	_	_	_	_	Gloss=to_be_well
+
+# text = సుద్రే మాత
+# gloss = flourished
+1	సుద్రే	_	VERB	_	_	_	_	_	_
+2	మాత	_	VERB	_	_	_	_	_	Gloss=flourished
+
+# text = సుద్రేమాయ్వల్
+1	సుద్రేమాయ్వల్	_	NOUN	_	_	_	_	_	_
+
+# text = సున్న
+# gloss = zero
+1	సున్న	_	NUM	_	_	_	_	_	Gloss=zero
+
+# text = సుక్వల్
+# gloss = wash
+1	సుక్వల్	_	NOUN	_	_	_	_	_	Gloss=wash
+
+# text = సుజర సీమ్
+# gloss = offer sacrifice
+1	సుజర	_	VERB	_	_	_	_	_	_
+2	సీమ్	_	VERB	_	_	_	_	_	Gloss=offer_sacrifice
+
+# text = సుజరంగ్
+# gloss = sacrificial animals
+1	సుజరంగ్	_	NOUN	_	_	_	_	_	Gloss=sacrificial_animals
+
+# text = సుట్టి
+# gloss = leave
+1	సుట్టి	_	NOUN	_	_	_	_	_	Gloss=leave
+
+# text = సుట్టికియుస్వల్
+# gloss = redeemer
+1	సుట్టికియుస్వల్	_	NOUN	_	_	_	_	_	Gloss=redeemer
+
+# text = సుట్టికీసి
+# gloss = be.delivered
+1	సుట్టికీసి	_	VERB	_	_	_	_	_	Gloss=be.delivered
+
+# text = సుట్టింగ్
+# gloss = vacation
+1	సుట్టింగ్	_	NOUN	_	_	_	_	_	Gloss=vacation
+
+# text = సీర్క్ నె కీ
+# gloss = to sniffle
+1	సీర్క్	_	VERB	_	_	_	_	_	_
+2	నె	_	VERB	_	_	_	_	_	_
+3	కీ	_	VERB	_	_	_	_	_	Gloss=to_sniffle
+
+# text = సీల్క
+# gloss = brook
+1	సీల్క	_	NOUN	_	_	_	_	_	Gloss=brook
+
+# text = సీస
+# gloss = bottle
+1	సీస	_	NOUN	_	_	_	_	_	Gloss=bottle
+
+# text = సీసి
+1	సీసి	_	NOUN	_	_	_	_	_	_
+
+# text = సుకం
+# gloss = health
+1	సుకం	_	NOUN	_	_	_	_	_	Gloss=health
+
+# text = సుకమ్నె
+# gloss = comfortably
+1	సుకమ్నె	_	ADV	_	_	_	_	_	Gloss=comfortably
+
+# text = సుకున్
+# gloss = with out pain
+1	సుకున్	_	ADV	_	_	_	_	_	Gloss=with_out_pain
+
+# text = సుకుర్ వార్
+# gloss = Friday
+1	సుకుర్	_	PROPN	_	_	_	_	_	_
+2	వార్	_	PROPN	_	_	_	_	_	Gloss=Friday
+
+# text = సుక్
+# gloss = to launder
+1	సుక్	_	VERB	_	_	_	_	_	Gloss=to_launder
+
+# text = సుక్ దుక్
+# gloss = good and bad
+1	సుక్	_	NOUN	_	_	_	_	_	_
+2	దుక్	_	NOUN	_	_	_	_	_	Gloss=good_and_bad
+
+# text = సుక్కుం
+# gloss = star
+1	సుక్కుం	_	NOUN	_	_	_	_	_	Gloss=star
+
+# text = సీపి₁
+# gloss = tailor
+1	సీపి₁	_	NOUN	_	_	_	_	_	Gloss=tailor
+
+# text = సీపి₂
+# gloss = shell
+1	సీపి₂	_	NOUN	_	_	_	_	_	Gloss=shell
+
+# text = సీమ్
+# gloss = give
+1	సీమ్	_	VERB	_	_	_	_	_	Gloss=give
+
+# text = సీయ్
+# gloss = to sweep
+1	సీయ్	_	NOUN	_	_	_	_	_	Gloss=to_sweep
+
+# text = సీర
+# gloss = vein
+1	సీర	_	NOUN	_	_	_	_	_	Gloss=vein
+
+# text = సీర్₁
+# gloss = root
+1	సీర్₁	_	NOUN	_	_	_	_	_	Gloss=root
+
+# text = సీర్₂
+# gloss = nit
+1	సీర్₂	_	NOUN	_	_	_	_	_	Gloss=nit
+
+# text = సిస్సల్
+1	సిస్సల్	_	NOUN	_	_	_	_	_	_
+
+# text = సీ
+# gloss = to give
+1	సీ	_	VERB	_	_	_	_	_	Gloss=to_give
+
+# text = సీకరి వెలిమె
+# gloss = chaser
+1	సీకరి	_	NOUN	_	_	_	_	_	_
+2	వెలిమె	_	NOUN	_	_	_	_	_	Gloss=chaser
+
+# text = సీంగ్
+# gloss = horn
+1	సీంగ్	_	NOUN	_	_	_	_	_	Gloss=horn
+
+# text = సీటి
+# gloss = whistle
+1	సీటి	_	NOUN	_	_	_	_	_	Gloss=whistle
+
+# text = సీటె
+# gloss = bark of a tree
+1	సీటె	_	NOUN	_	_	_	_	_	Gloss=bark_of_a_tree
+
+# text = సిర్డుంమర్ర
+# gloss = tree
+1	సిర్డుంమర్ర	_	NOUN	_	_	_	_	_	Gloss=tree
+
+# text = సిర్మ
+# gloss = cattle bell
+1	సిర్మ	_	NOUN	_	_	_	_	_	Gloss=cattle_bell
+
+# text = సిర్రుట్ (జాడి)
+# gloss = grass
+1	సిర్రుట్	_	NOUN	_	_	_	_	_	_
+2	(జాడి)	_	NOUN	_	_	_	_	_	Gloss=grass
+
+# text = సిర్మందింగ్
+# gloss = humiliate
+1	సిర్మందింగ్	_	VERB	_	_	_	_	_	Gloss=humiliate
+
+# text = సిర్రుట్
+# gloss = around
+1	సిర్రుట్	_	VERB	_	_	_	_	_	Gloss=around
+
+# text = సిల్కత యేర్
+# gloss = river water
+1	సిల్కత	_	NOUN	_	_	_	_	_	_
+2	యేర్	_	NOUN	_	_	_	_	_	Gloss=river_water
+
+# text = సియ్యడ
+# gloss = due
+1	సియ్యడ	_	ADJ	_	_	_	_	_	Gloss=due
+
+# text = సియ్యల్
+# gloss = payment
+1	సియ్యల్	_	NOUN	_	_	_	_	_	Gloss=payment
+
+# text = సియ్యుర్
+# gloss = five
+1	సియ్యుర్	_	NUM	_	_	_	_	_	Gloss=five
+
+# text = సిరిప్
+# gloss = only
+1	సిరిప్	_	NOUN	_	_	_	_	_	Gloss=only
+
+# text = సిరుమ్
+# gloss = pins and needles
+1	సిరుమ్	_	NOUN	_	_	_	_	_	Gloss=pins_and_needles
+
+# text = సిరులి
+# gloss = cow-itch plant
+1	సిరులి	_	NOUN	_	_	_	_	_	Gloss=cow-itch_plant
+
+# text = సిర్డల్
+# gloss = uncontrollable
+1	సిర్డల్	_	ADJ	_	_	_	_	_	Gloss=uncontrollable
+
+# text = సిత్త పండి
+# gloss = tamarind
+1	సిత్త	_	NOUN	_	_	_	_	_	_
+2	పండి	_	NOUN	_	_	_	_	_	Gloss=tamarind
+
+# text = సిత్త పర్కె
+# gloss = custard apple
+1	సిత్త	_	NOUN	_	_	_	_	_	_
+2	పర్కె	_	NOUN	_	_	_	_	_	Gloss=custard_apple
+
+# text = సిత్త (మర్ర)
+# gloss = tree
+1	సిత్త	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=tree
+
+# text = సిత్తి
+# gloss = manger
+1	సిత్తి	_	NOUN	_	_	_	_	_	Gloss=manger
+
+# text = సిత్తి (మర్ర)
+# gloss = date palm
+1	సిత్తి	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=date_palm
+
+# text = సిదల్ సాన్వల్
+# gloss = going straight
+1	సిదల్	_	VERB	_	_	_	_	_	_
+2	సాన్వల్	_	VERB	_	_	_	_	_	Gloss=going_straight
+
+# text = సినిమ
+# gloss = film
+1	సినిమ	_	NOUN	_	_	_	_	_	Gloss=film
+
+# text = సిన్నూం
+# gloss = bracelet
+1	సిన్నూం	_	NOUN	_	_	_	_	_	Gloss=bracelet
+
+# text = సిబ్బి
+# gloss = storage basket
+1	సిబ్బి	_	NOUN	_	_	_	_	_	Gloss=storage_basket
+
+# text = సిమ్గ
+# gloss = holi festival
+1	సిమ్గ	_	NOUN	_	_	_	_	_	Gloss=holi_festival
+
+# text = సియొస్
+# gloss = not given
+1	సియొస్	_	VERB	_	_	_	_	_	Gloss=not_given
+
+# text = సితుర్
+# gloss = chill
+1	సితుర్	_	ADJ	_	_	_	_	_	Gloss=chill
+
+# text = సితుర్ ఆ
+# gloss = to become cool
+1	సితుర్	_	VERB	_	_	_	_	_	_
+2	ఆ	_	VERB	_	_	_	_	_	Gloss=to_become_cool
+
+# text = సితులి (మర్ర)
+# gloss = tree
+1	సితులి	_	NOUN	_	_	_	_	_	_
+2	(మర్ర)	_	NOUN	_	_	_	_	_	Gloss=tree
+
+# text = సిత్త జొమ్ము
+1	సిత్త	_	NOUN	_	_	_	_	_	_
+2	జొమ్ము	_	NOUN	_	_	_	_	_	_
+
+# text = సాసి నెండోర్
+# gloss = rebirth
+1	సాసి	_	NOUN	_	_	_	_	_	_
+2	నెండోర్	_	NOUN	_	_	_	_	_	Gloss=rebirth
+
+# text = సాస్త్రమ్
+# gloss = chronicle
+1	సాస్త్రమ్	_	NOUN	_	_	_	_	_	Gloss=chronicle
+
+# text = సికటి
+# gloss = darkness
+1	సికటి	_	NOUN	_	_	_	_	_	Gloss=darkness
+
+# text = సికటితె
+# gloss = touch in the darkness
+1	సికటితె	_	NOUN	_	_	_	_	_	Gloss=touch_in_the_darkness
+
+# text = సికరి
+# gloss = hunt
+1	సికరి	_	VERB	_	_	_	_	_	Gloss=hunt
+
+# text = సికర్ కీ₂
+# gloss = hunting
+1	సికర్	_	NOUN	_	_	_	_	_	_
+2	కీ₂	_	NOUN	_	_	_	_	_	Gloss=hunting
+
+# text = సిక్క
+# gloss = net bag
+1	సిక్క	_	NOUN	_	_	_	_	_	Gloss=net_bag
+
+# text = సిక్క నోడె
+# gloss = rope
+1	సిక్క	_	NOUN	_	_	_	_	_	_
+2	నోడె	_	NOUN	_	_	_	_	_	Gloss=rope
+
+# text = సిక్స
+# gloss = punishment
+1	సిక్స	_	NOUN	_	_	_	_	_	Gloss=punishment
+
+# text = సిక్సన్
+# gloss = training
+1	సిక్సన్	_	NOUN	_	_	_	_	_	Gloss=training
+
+# text = సింగర్
+# gloss = tattoo
+1	సింగర్	_	NOUN	_	_	_	_	_	Gloss=tattoo
+
