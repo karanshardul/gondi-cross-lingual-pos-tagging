@@ -1,0 +1,41 @@
+experiment:
+  name: gondi_pos_routing
+  output_dir: outputs
+  seed: 42
+
+data:
+  lexicon_path: datasets/gondi_lexicon_augmented.csv
+  train_ratio: 0.8
+  dev_ratio: 0.1
+  test_ratio: 0.1
+  max_length: 16
+
+model:
+  pretrained_name: xlm-roberta-base
+  num_labels: 0        # let code infer from dataset
+  adapter_hidden_size: 64
+  dropout: 0.1
+
+router:
+  use_router: true
+  use_similarity_bias: true
+  similarity_bias: [0.2, 0.2, 0.6]   # Hindi, Marathi, Telugu
+
+  
+training:
+  batch_size: 16
+  num_epochs: 10
+  learning_rate: 3e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  gradient_clip: 1.0
+  logging_steps: 50
+  save_every_epoch: true
+  resume_from_checkpoint: null
+
+lexicon_loss:
+  enabled: true
+  lambda_weight: 1.0
+
+device:
+  use_gpu: true
